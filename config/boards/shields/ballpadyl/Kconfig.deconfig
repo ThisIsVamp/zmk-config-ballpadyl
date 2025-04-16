@@ -1,0 +1,6 @@
+if SHIELD_BALLPADYL
+
+config ZMK_KEYBOARD_NAME
+    default "ballpadyl_left"
+
+    endif
